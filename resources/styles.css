@@ -115,6 +115,7 @@ p{
     font-size: 1.5rem;
     border: none;
     border-radius: 1.5rem;
+    height: 20%;
 }
 @media only screen and (max-width: 1024px){
     h1{
