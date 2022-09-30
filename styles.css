@@ -39,7 +39,7 @@ html{
 @media only screen and (max-width: 1024px){
     .container{
         flex-direction: column;
-        width: 375px;
+        width: 23.4375rem;
     }
     .image-box{
         width: 100%;
